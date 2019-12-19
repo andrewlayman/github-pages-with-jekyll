@@ -1,1 +1,2 @@
-Second post
+When my _config.yml file has a syntax error, there is not notification of that.  I only discovered I have an error by going to 
+the Settings page for my repository and chacking the Pages settings.  The warning showed up there. 
