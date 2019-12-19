@@ -1,11 +1,11 @@
-title: My awesome title
+title: The GitHub Learning Blog of Andrew Layman
 author: Andrew Layman
 email: andrew@strongbrains.com
 description: > # this means to ignore newlines until "baseurl:"
-  The description of my pages blog.
+  A record of the various things I did while taking the GitHub Learning lab.
 
 # social links
-twitter_username: your-twitter-handle
+twitter_username: @andrewlayman
 github_username:  andrewlayman
 
 show_excerpts: true # set to false to remove excerpts on the homepage
